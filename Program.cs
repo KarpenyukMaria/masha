@@ -6,7 +6,7 @@ namespace _1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("comit2");
+            Console.WriteLine("comit3");
         }
     }
 }

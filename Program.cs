@@ -6,7 +6,7 @@ namespace _1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("rebase");
+            Console.WriteLine("com");
         }
     }
 }
